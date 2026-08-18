@@ -1,0 +1,24 @@
+{
+  "name": "recupera-aobackendapi",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/nathalyagreffimmachado-code/Recupera-aoBackendAPI#readme",
+  "bugs": {
+    "url": "https://github.com/nathalyagreffimmachado-code/Recupera-aoBackendAPI/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathalyagreffimmachado-code/Recupera-aoBackendAPI.git"
+  },
+  "license": "ISC",
+  "author": "Nathalya Greffim",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "nodemon": "^5.2.1"
+  }
+}
